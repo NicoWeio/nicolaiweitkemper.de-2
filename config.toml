@@ -1,4 +1,4 @@
 baseURL = 'https://nicoweio.github.io/nicolaiweitkemper.de/'
 languageCode = 'de-de'
 title = 'Nicolai Weitkemper'
-theme = "ananke"
+theme = 'ananke'
